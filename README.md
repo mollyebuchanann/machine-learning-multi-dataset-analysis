@@ -4,7 +4,7 @@ This project explores three distinct datasets using a variety of data analysis a
 
 ---
 
-## 📁 Contents
+## Contents
 
 - **Part A**: Historical Monasteries Dataset
 - **Part B**: Wine Quality Prediction
@@ -13,7 +13,7 @@ This project explores three distinct datasets using a variety of data analysis a
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 This project uses the following Python libraries:
 - `pandas`
